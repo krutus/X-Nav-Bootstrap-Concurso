@@ -1,0 +1,12 @@
+body {
+	padding-left: 20px;
+	padding-right: 20px;
+	background-color: #DDDDDD;
+	 font-family: "Homer Simpson", cursive; 
+}
+
+.jumbotron{
+	background-color: #000000;
+	color: #FFFFFF
+}
+
